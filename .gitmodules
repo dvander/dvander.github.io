@@ -1,3 +1,6 @@
 [submodule "moz-gfx-telemetry"]
 	path = moz-gfx-telemetry
 	url = https://github.com/dvander/moz-gfx-telemetry
+[submodule "submodules/moz-gfx-telemetry"]
+	path = submodules/moz-gfx-telemetry
+	url = https://github.com/dvander/moz-gfx-telemetry
